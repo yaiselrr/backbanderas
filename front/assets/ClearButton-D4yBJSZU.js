@@ -1,0 +1,1 @@
+import{C as e,n as r,z as t,x as s}from"./index-D0wN_fuZ.js";const n={},o={class:"cursor-pointer w-fit-content rounded-full"},i=[s("div",{class:"i-heroicons:x-circle text-gray-400",style:{width:"1.2em",height:"1.2em"},"w:hover":"text-gray-900","w:dark:hover":"text-gray-200"},null,-1)];const a=e(n,[["render",function(e,s){return r(),t("div",o,i)}]]);export{a as C};

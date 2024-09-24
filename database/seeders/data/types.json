@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Porcentual",
+    "description": "Descripción de porcentual",
+    "created_at": "2/8/2024 21:17:32",
+    "updated_at": "2/8/2024 21:17:32"
+  },
+  {
+    "id": 2,
+    "name": "Valor fijo",
+    "description": "Descripción de valor fijo",
+    "created_at": "2/8/2024 21:17:32",
+    "updated_at": "2/8/2024 21:17:32"
+  }
+]

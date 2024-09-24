@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Agencia de publicidad",
+    "description": "Descripción de agencia de publicidad"
+  },
+  {
+    "id": 2,
+    "name": "Eventos",
+    "description": "Descripción de eventos"
+  },
+  {
+    "id": 3,
+    "name": "Tienda de souvenirs",
+    "description": "Descripción de tienda de souvenirs"
+  },
+  {
+    "id": 4,
+    "name": "Tienda de fotografía",
+    "description": "Descripción de tienda de fotografía"
+  },
+  {
+    "id": 5,
+    "name": "Empresas de merchandising",
+    "description": "Descripción de empresas de merchandising"
+  },
+  {
+    "id": 6,
+    "name": "Constructora",
+    "description": "Descripción de Constructora"
+  },
+  {
+    "id": 7,
+    "name": "Toldos",
+    "description": "Descripción de toldos"
+  },
+  {
+    "id": 8,
+    "name": "Rotulación",
+    "description": "Descripción de rotulación"
+  },
+  {
+    "id": 9,
+    "name": "Tiendas de disfraces",
+    "description": "Descripción de tiendas de disfraces"
+  },
+  {
+    "id": 10,
+    "name": "Serigrafía",
+    "description": "Descripción de serigrafía"
+  },
+  {
+    "id": 11,
+    "name": "Venta de tejidos",
+    "description": "Descripción de venta de tejidos"
+  }
+]

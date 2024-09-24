@@ -1,0 +1,1 @@
+System.register(["./index-legacy-BnT4rcVz.js"],(function(e,t){"use strict";var n,u;return{setters:[function(e){n=e.r,u=e.w}],execute:function(){e("u",(function(e,t,r){var c=n(e());return u(t,(function(t,n){r?r(t,n)&&(c.value=e()):c.value=e()})),c}))}}}));

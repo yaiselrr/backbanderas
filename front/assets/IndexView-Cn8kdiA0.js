@@ -1,0 +1,1 @@
+import{C as s,n,z as a,x as t}from"./index-D0wN_fuZ.js";const e={},i={class:"p-10"},r=[t("h1",null," Sistema de administración",-1)];const d=s(e,[["render",function(s,t){return n(),a("div",i,r)}]]);export{d as default};

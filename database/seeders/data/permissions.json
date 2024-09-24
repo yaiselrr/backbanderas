@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "name": "users.crud",
+    "label": "Gestionar usuarios",
+    "created_at": "1/8/2024 21:17:31",
+    "updated_at": "1/8/2024 21:17:31"
+  },
+  {
+    "id": 2,
+    "name": "users.read",
+    "label": "Consultar usuarios",
+    "created_at": "1/8/2024 21:17:31",
+    "updated_at": "1/8/2024 21:17:31"
+  },
+  {
+    "id": 3,
+    "name": "settings.crud",
+    "label": "Gestionar configuraciones",
+    "created_at": "1/8/2024 21:17:31",
+    "updated_at": "1/8/2024 21:17:31"
+  },
+  {
+    "id": 4,
+    "name": "settings.read",
+    "label": "Consultar configuraciones",
+    "created_at": "1/8/2024 21:17:31",
+    "updated_at": "1/8/2024 21:17:31"
+  },
+  {
+    "id": 5,
+    "name": "pays_ways.crud",
+    "label": "Gestionar formas de pago",
+    "created_at": "1/8/2024 21:17:31",
+    "updated_at": "1/8/2024 21:17:31"
+  },
+  {
+    "id": 6,
+    "name": "pays_ways.read",
+    "label": "Consultar formas de pago",
+    "created_at": "1/8/2024 21:17:31",
+    "updated_at": "1/8/2024 21:17:31"
+  },
+  {
+    "id": 7,
+    "name": "coupons.crud",
+    "label": "Gestionar cupones",
+    "created_at": "1/8/2024 21:17:31",
+    "updated_at": "1/8/2024 21:17:31"
+  },
+  {
+    "id": 8,
+    "name": "coupons.read",
+    "label": "Consultar cupones",
+    "created_at": "1/8/2024 21:17:31",
+    "updated_at": "1/8/2024 21:17:31"
+  },
+  {
+    "id": 9,
+    "name": "attributes.crud",
+    "label": "Gestionar atributos",
+    "created_at": "1/8/2024 21:17:31",
+    "updated_at": "1/8/2024 21:17:31"
+  },
+  {
+    "id": 10,
+    "name": "attributes.read",
+    "label": "Consultar atributos",
+    "created_at": "1/8/2024 21:17:31",
+    "updated_at": "1/8/2024 21:17:31"
+  },
+  {
+    "id": 13,
+    "name": "categories.crud",
+    "label": "Gestionar categorías",
+    "created_at": "1/8/2024 21:17:31",
+    "updated_at": "1/8/2024 21:17:31"
+  },
+  {
+    "id": 14,
+    "name": "categories.read",
+    "label": "Consultar categorías",
+    "created_at": "1/8/2024 21:17:31",
+    "updated_at": "1/8/2024 21:17:31"
+  },
+  {
+    "id": 15,
+    "name": "request_statuses.crud",
+    "label": "Gestionar estados de solicitud",
+    "created_at": "1/8/2024 21:17:31",
+    "updated_at": "1/8/2024 21:17:31"
+  },
+  {
+    "id": 16,
+    "name": "request_statuses.read",
+    "label": "Consultar estados de solicitud",
+    "created_at": "1/8/2024 21:17:31",
+    "updated_at": "1/8/2024 21:17:31"
+  },
+  {
+    "id": 17,
+    "name": "product_types.crud",
+    "label": "Gestionar tipos de productos",
+    "created_at": "1/8/2024 21:17:31",
+    "updated_at": "1/8/2024 21:17:31"
+  },
+  {
+    "id": 18,
+    "name": "product_types.read",
+    "label": "Consultar tipos de productos",
+    "created_at": "1/8/2024 21:17:31",
+    "updated_at": "1/8/2024 21:17:31"
+  },
+  {
+    "id": 19,
+    "name": "products.crud",
+    "label": "Gestionar productos",
+    "created_at": "1/8/2024 21:17:31",
+    "updated_at": "1/8/2024 21:17:31"
+  },
+  {
+    "id": 20,
+    "name": "products.read",
+    "label": "Consultar productos",
+    "created_at": "1/8/2024 21:17:31",
+    "updated_at": "1/8/2024 21:17:31"
+  },
+  {
+    "id": 21,
+    "name": "refurbished.crud",
+    "label": "Gestionar devoluciones",
+    "created_at": "1/8/2024 21:17:31",
+    "updated_at": "1/8/2024 21:17:31"
+  },
+  {
+    "id": 22,
+    "name": "refurbished.read",
+    "label": "Consultar devoluciones",
+    "created_at": "1/8/2024 21:17:31",
+    "updated_at": "1/8/2024 21:17:31"
+  },
+  {
+    "id": 23,
+    "name": "clients.crud",
+    "label": "Gestionar clientes",
+    "created_at": "1/8/2024 21:17:31",
+    "updated_at": "1/8/2024 21:17:31"
+  },
+  {
+    "id": 24,
+    "name": "clients.read",
+    "label": "Consultar clientes",
+    "created_at": "1/8/2024 21:17:31",
+    "updated_at": "1/8/2024 21:17:31"
+  },
+  {
+    "id": 25,
+    "name": "invoices.crud",
+    "label": "Gestionar facturas",
+    "created_at": "1/8/2024 21:17:31",
+    "updated_at": "1/8/2024 21:17:31"
+  },
+  {
+    "id": 26,
+    "name": "invoices.read",
+    "label": "Consultar facturas",
+    "created_at": "1/8/2024 21:17:31",
+    "updated_at": "1/8/2024 21:17:31"
+  },
+  {
+    "id": 27,
+    "name": "orders.crud",
+    "label": "Gestionar pedidos",
+    "created_at": "1/8/2024 21:17:31",
+    "updated_at": "1/8/2024 21:17:31"
+  },
+  {
+    "id": 28,
+    "name": "orders.read",
+    "label": "Consultar pedidos",
+    "created_at": "1/8/2024 21:17:31",
+    "updated_at": "1/8/2024 21:17:31"
+  },
+  {
+    "id": 29,
+    "name": "business_sectors.crud",
+    "label": "Gestionar sectores de negocio",
+    "created_at": "1/8/2024 21:17:31",
+    "updated_at": "1/8/2024 21:17:31"
+  },
+  {
+    "id": 30,
+    "name": "business_sectors.read",
+    "label": "Consultar sectores de negocio",
+    "created_at": "1/8/2024 21:17:31",
+    "updated_at": "1/8/2024 21:17:31"
+  },
+  {
+    "id": 31,
+    "name": "keys_words.crud",
+    "label": "Gestionar palabras claves",
+    "created_at": "1/8/2024 21:17:31",
+    "updated_at": "1/8/2024 21:17:31"
+  },
+  {
+    "id": 32,
+    "name": "keys_words.read",
+    "label": "Consultar palabras claves",
+    "created_at": "1/8/2024 21:17:31",
+    "updated_at": "1/8/2024 21:17:31"
+  },
+  {
+    "id": 33,
+    "name": "messages_blocks.crud",
+    "label": "Gestionar bloques de mensajes",
+    "created_at": "1/8/2024 21:17:31",
+    "updated_at": "1/8/2024 21:17:31"
+  },
+  {
+    "id": 34,
+    "name": "messages_blocks.read",
+    "label": "Consultar bloques de mensajes",
+    "created_at": "1/8/2024 21:17:31",
+    "updated_at": "1/8/2024 21:17:31"
+  },
+  {
+    "id": 35,
+    "name": "permissions.crud",
+    "label": "Gestionar permisos",
+    "created_at": "1/8/2024 21:17:31",
+    "updated_at": "1/8/2024 21:17:31"
+  },
+  {
+    "id": 36,
+    "name": "permissions.read",
+    "label": "Consultar permisos",
+    "created_at": "1/8/2024 21:17:31",
+    "updated_at": "1/8/2024 21:17:31"
+  },
+  {
+    "id": 37,
+    "name": "roles.crud",
+    "label": "Gestionar roles",
+    "created_at": "1/8/2024 21:17:31",
+    "updated_at": "1/8/2024 21:17:31"
+  },
+  {
+    "id": 38,
+    "name": "roles.read",
+    "label": "Consultar roles",
+    "created_at": "1/8/2024 21:17:31",
+    "updated_at": "1/8/2024 21:17:31"
+  },
+  {
+    "id": 39,
+    "name": "dealers.crud",
+    "label": "Gestionar distribuidores",
+    "created_at": "1/8/2024 21:17:31",
+    "updated_at": "1/8/2024 21:17:31"
+  },
+  {
+    "id": 40,
+    "name": "dealers.read",
+    "label": "Consultar distribuidores",
+    "created_at": "1/8/2024 21:17:31",
+    "updated_at": "1/8/2024 21:17:31"
+  },
+  {
+    "id": 41,
+    "name": "all_users.crud",
+    "label": "Gestionar usuarios, distribuidores y clientes",
+    "created_at": "1/8/2024 21:17:31",
+    "updated_at": "1/8/2024 21:17:31"
+  },
+  {
+    "id": 42,
+    "name": "all_users.read",
+    "label": "Consultar usuarios, distribuidores y clientes",
+    "created_at": "1/8/2024 21:17:31",
+    "updated_at": "1/8/2024 21:17:31"
+  }
+]

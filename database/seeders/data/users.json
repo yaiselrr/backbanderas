@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "name": "Super adminstrador",
+    "email": "admin@banderas.com",
+    "email_verified_at": "2024-08-17 05:08:00",
+    "password": "adminbanderas",
+    "addresses": "--",
+    "phones": "--",
+    "last_login_at": "2024-08-17 05:08:00",
+    "last_login_ip": "127.0.0.1"
+  },
+  {
+    "id": 2,
+    "name": "Usuario avanzado",
+    "email": "usuario_avanzado@banderas.com",
+    "email_verified_at": "2024-08-17 05:08:00",
+    "password": "usuario_avanzadobanderas",
+    "addresses": "--",
+    "phones": "--",
+    "last_login_at": "2024-08-17 05:08:00",
+    "last_login_ip": "127.0.0.1"
+  },
+  {
+    "id": 3,
+    "name": "Usuario",
+    "email": "usuario@banderas.com",
+    "email_verified_at": "2024-08-17 05:08:00",
+    "password": "usuariobanderas",
+    "addresses": "--",
+    "phones": "--",
+    "last_login_at": "2024-08-17 05:08:00",
+    "last_login_ip": "127.0.0.1"
+  }
+]

@@ -1,0 +1,1 @@
+System.register(["./RForm.vue_vue_type_script_setup_true_lang-legacy-CQJ14iDy.js","./index-legacy-CLTyZtoE.js","./index-legacy-BnT4rcVz.js"],(function(e,t){"use strict";return{setters:[function(t){t._,e("default",t._)},null,null],execute:function(){}}}));

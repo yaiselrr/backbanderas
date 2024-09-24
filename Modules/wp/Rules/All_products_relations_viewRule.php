@@ -1,0 +1,50 @@
+<?php
+          return [
+            'create'=>[
+                'ID' =>'required|unique:'.$this->connection.'.all_products_relations_view',
+                'product_title' =>'required|unique:'.$this->connection.'.all_products_relations_view',
+                'product_description' =>'required|unique:'.$this->connection.'.all_products_relations_view',
+                'product_status' =>'required|max:20|unique:'.$this->connection.'.all_products_relations_view',
+                'slug' =>'required|max:200|unique:'.$this->connection.'.all_products_relations_view',
+                'product_type' =>'required|max:20|unique:'.$this->connection.'.all_products_relations_view',
+                'name' =>'required|max:200|unique:'.$this->connection.'.all_products_relations_view',
+                'product_type_id' =>'required|unique:'.$this->connection.'.all_products_relations_view',
+                'category_id' =>'nullable|unique:'.$this->connection.'.all_products_relations_view',
+                'category_name' =>'nullable|max:200|unique:'.$this->connection.'.all_products_relations_view',
+                'primary_focus_keyword' =>'nullable|max:191',
+                'open_graph_title' =>'nullable',
+                'open_graph_image' =>'nullable',
+                'open_graph_image_meta' =>'nullable',
+                'twitter_image' =>'nullable',
+                'min_price' =>'nullable',
+                'max_price' =>'nullable',
+                'rating_count' =>'nullable',
+                'average_rating' =>'nullable',
+                'stock_quantity' =>'nullable',
+                'onsale' =>'nullable|boolean'
+            ],
+            'update'=>[
+                'ID' =>'|unique:'.$this->connection.'.all_products_relations_view,ID,'.$this->ID.',ID',
+                'product_title' =>'|unique:'.$this->connection.'.all_products_relations_view,product_title,'.$this->ID.',ID',
+                'product_description' =>'|unique:'.$this->connection.'.all_products_relations_view,product_description,'.$this->ID.',ID',
+                'product_status' =>'max:20|unique:'.$this->connection.'.all_products_relations_view,product_status,'.$this->ID.',ID',
+                'slug' =>'max:200|unique:'.$this->connection.'.all_products_relations_view,slug,'.$this->ID.',ID',
+                'product_type' =>'max:20|unique:'.$this->connection.'.all_products_relations_view,product_type,'.$this->ID.',ID',
+                'name' =>'max:200|unique:'.$this->connection.'.all_products_relations_view,name,'.$this->ID.',ID',
+                'product_type_id' =>'|unique:'.$this->connection.'.all_products_relations_view,product_type_id,'.$this->ID.',ID',
+                'category_id' =>'nullable|unique:'.$this->connection.'.all_products_relations_view,category_id,'.$this->ID.',ID',
+                'category_name' =>'nullable|max:200|unique:'.$this->connection.'.all_products_relations_view,category_name,'.$this->ID.',ID',
+                'primary_focus_keyword' =>'nullable|max:191',
+                'open_graph_title' =>'nullable',
+                'open_graph_image' =>'nullable',
+                'open_graph_image_meta' =>'nullable',
+                'twitter_image' =>'nullable',
+                'min_price' =>'nullable',
+                'max_price' =>'nullable',
+                'rating_count' =>'nullable',
+                'average_rating' =>'nullable',
+                'stock_quantity' =>'nullable',
+                'onsale' =>'nullable|boolean'
+            ]
+        ];
+

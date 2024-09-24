@@ -1,0 +1,17 @@
+stages:
+    - build_stage
+    - deploy_stage
+build:
+    stage: build_stage
+    before_script:
+        - chmod 400 $SSH_KEY
+    script:
+        - ssh -o StrictHostKeyChecking=no -i $SSH_KEY user_deploy@149.71.99.239
+        - cd /home/bph/web/pre-admin.banderasphonline.com/public_html/banderas-backend/
+        - git pull
+deploy:
+    stage: deploy_stage
+    script:
+        - php artisan migrate
+        - php artisan cache:clear
+        - php artisan config:cache

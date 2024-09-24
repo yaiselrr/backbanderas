@@ -1,0 +1,1 @@
+System.register([],(function(e,t){"use strict";return{execute:function(){e("s",!1);try{var t=Object.defineProperty({},"passive",{get:function(){e("s",!0)}});window.addEventListener("testPassive",null,t),window.removeEventListener("testPassive",null,t)}catch(n){}}}}));

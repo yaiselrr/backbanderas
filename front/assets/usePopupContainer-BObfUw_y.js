@@ -1,0 +1,1 @@
+import{r as n,E as e,a as o}from"./index-D0wN_fuZ.js";function r(r,t){const a=n(),s=n();s.value=e(t)?e(t):()=>a.value;const i=o((()=>[e(r)]));return{container:a,getPopupContainerFn:s,triggerMode:i}}export{r as u};

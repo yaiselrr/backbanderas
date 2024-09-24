@@ -1,0 +1,53 @@
+<?php
+          return [
+            'create'=>[
+                'post_author' =>'required',
+                'post_date' =>'required|date',
+                'post_date_gmt' =>'required|date',
+                'post_content' =>'required',
+                'post_title' =>'required',
+                'post_excerpt' =>'required',
+                'post_status' =>'required|max:20',
+                'comment_status' =>'required|max:20',
+                'ping_status' =>'required|max:20',
+                'post_password' =>'required|max:255',
+                'post_name' =>'required|max:200',
+                'to_ping' =>'required',
+                'pinged' =>'required',
+                'post_modified' =>'required|date',
+                'post_modified_gmt' =>'required|date',
+                'post_content_filtered' =>'required',
+                'post_parent' =>'required',
+                'guid' =>'required|max:255',
+                'menu_order' =>'required',
+                'post_type' =>'required|max:20',
+                'post_mime_type' =>'required|max:100',
+                'comment_count' =>'required'
+            ],
+            'update'=>[
+                'ID' =>'|unique:'.$this->connection.'.wp1u_posts,ID,'.$this->ID.',ID',
+                'post_author' =>'',
+                'post_date' =>'date',
+                'post_date_gmt' =>'date',
+                'post_content' =>'',
+                'post_title' =>'',
+                'post_excerpt' =>'',
+                'post_status' =>'max:20',
+                'comment_status' =>'max:20',
+                'ping_status' =>'max:20',
+                'post_password' =>'max:255',
+                'post_name' =>'max:200',
+                'to_ping' =>'',
+                'pinged' =>'',
+                'post_modified' =>'date',
+                'post_modified_gmt' =>'date',
+                'post_content_filtered' =>'',
+                'post_parent' =>'',
+                'guid' =>'max:255',
+                'menu_order' =>'',
+                'post_type' =>'max:20',
+                'post_mime_type' =>'max:100',
+                'comment_count' =>''
+            ]
+        ];
+

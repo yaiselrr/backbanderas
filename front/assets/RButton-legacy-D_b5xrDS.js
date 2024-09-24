@@ -1,0 +1,1 @@
+System.register(["./RButton.vue_vue_type_style_index_0_lang-legacy-CorltFxv.js","./index-legacy-BnT4rcVz.js"],(function(e,t){"use strict";return{setters:[function(t){t._,e("default",t._)},null],execute:function(){}}}));

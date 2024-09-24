@@ -1,0 +1,1 @@
+const r=["primary","success","secondary","danger","warning"];var a=(r=>(r.PRIMARY="primary",r.SUCCESS="success",r.SECONDARY="secondary",r.DANGER="danger",r.WARNING="warning",r))(a||{});export{a as C,r as c};

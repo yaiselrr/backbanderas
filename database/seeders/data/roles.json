@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "role_father_id": null,
+    "name": "Super Admin",
+    "description": "Usuario super administrador del sistema",
+    "created_at": "2/8/2024 21:17:31",
+    "updated_at": "2/8/2024 21:17:31"
+  },
+  {
+    "id": 2,
+    "role_father_id": null,
+    "name": "Usuario avanzado",
+    "description": "Usuario avanzado del sistema",
+    "created_at": "2/8/2024 21:17:31",
+    "updated_at": "2/8/2024 21:17:31"
+  },
+  {
+    "id": 3,
+    "role_father_id": null,
+    "name": "Colaborador",
+    "description": "Usuario colaborador del sistema",
+    "created_at": "2/8/2024 21:17:31",
+    "updated_at": "2/8/2024 21:17:31"
+  }
+]

@@ -1,0 +1,14 @@
+{
+    "name": "stocks",
+    "alias": "stocks",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\stocks\\Providers\\StocksServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
+

@@ -1,0 +1,9 @@
+{
+    "security":true,
+    "masters":true,
+    "manage":true,
+    "sale":true,
+    "stocks":true,
+    "settings":true,
+    "wp":true
+}

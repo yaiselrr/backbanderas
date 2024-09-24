@@ -1,0 +1,36 @@
+<?php
+/*Internationalization*/
+return [
+    'es' => [
+        'orders.id' => 'id',
+        'orders.code' => 'code',
+        'orders.phone' => 'phone',
+        'orders.address' => 'address',
+        'orders.price' => 'price',
+        'orders.observations' => 'observations',
+        'orders.request_status_id' => 'request_status_id',
+        'orders.pay_way_id' => 'pay_way_id',
+        'orders.delivery_date' => 'delivery_date',
+        'orders.requested_date' => 'requested_date',
+        'orders.cancelled_at' => 'cancelled_at',
+        'orders.cancelled_by' => 'cancelled_by',
+        'orders.created_at' => 'created_at',
+        'orders.updated_at' => 'updated_at',
+    ],
+    'en' => [
+        'orders.id' => 'id',
+        'orders.code' => 'code',
+        'orders.phone' => 'phone',
+        'orders.address' => 'address',
+        'orders.price' => 'price',
+        'orders.observations' => 'observations',
+        'orders.request_status_id' => 'request_status_id',
+        'orders.pay_way_id' => 'pay_way_id',
+        'orders.delivery_date' => 'delivery_date',
+        'orders.requested_date' => 'requested_date',
+        'orders.cancelled_at' => 'cancelled_at',
+        'orders.cancelled_by' => 'cancelled_by',
+        'orders.created_at' => 'created_at',
+        'orders.updated_at' => 'updated_at',
+    ],
+];

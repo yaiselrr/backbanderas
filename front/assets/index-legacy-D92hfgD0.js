@@ -1,0 +1,1 @@
+System.register(["./dropdown-legacy-Ef-aP5fV.js"],(function(n,t){"use strict";var e,o;return{setters:[function(n){e=n.D,o=n._}],execute:function(){e.Button=o,e.install=function(n){return n.component(e.name,e),n.component(o.name,o),n}}}}));

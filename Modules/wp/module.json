@@ -1,0 +1,14 @@
+{
+    "name": "wp",
+    "alias": "wp",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\wp\\Providers\\WpServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
+

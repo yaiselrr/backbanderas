@@ -1,0 +1,1 @@
+import{c as n}from"./index-CFoXpmaN.js";function t(t,r,e=500){return n.withAsync(function(n,t){let r,e;function u(){return new Promise(((n,u)=>{r=setTimeout((()=>{r=null,e=null,n(null)}),t),e=u}))}return function(t){return r&&(e(new Error("replaced")),clearTimeout(r),r=null),n.call(this,t,u)}}((async function(n,r){return await r(),await t(n,this)}),e))}export{t as d};
